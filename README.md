@@ -1,5 +1,4 @@
-
-
+````JavaScript 
 const pallavi = {
     location: "India 🇮🇳",
     education: "B.Tech CSE - 2nd Year",
@@ -25,3 +24,4 @@ const pallavi = {
         "Learning Opportunities"
     ]
 };
+`````
