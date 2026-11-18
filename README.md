@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**Pallavi-2345/Pallavi-2345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const pallavi = {
+    location: "India 🇮🇳",
+    education: "B.Tech CSE - 2nd Year",
+    role: "Aspiring Software Engineer | Java Learner",
+    currentFocus: [
+        "Core Java",
+        "Data Structures & Algorithms",
+        "Git & GitHub",
+        "Problem Solving"
+    ],
+    passion: [
+        "Learning New Technologies",
+        "Building Projects",
+        "Exploring Software Development",
+        "Continuous Learning"
+    ],
+    superpower: "Curiosity + Consistency",
+    motto: "Every expert was once a beginner ✨",
+    funFact: "Turning coding challenges into learning opportunities!",
+    openTo: [
+        "Collaborations",
+        "Beginner-Friendly Projects",
+        "Learning Opportunities"
+    ]
+};
