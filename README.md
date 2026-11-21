@@ -4,7 +4,7 @@ const pallavi = {
     education: "B.Tech CSE - 2nd Year",
     role: "Aspiring Software Engineer | Java Learner",
     currentFocus: [
-        "Core Java",
+        "Python",
         "Data Structures & Algorithms",
         "Git & GitHub",
         "Problem Solving"
