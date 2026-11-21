@@ -2,7 +2,7 @@
 const pallavi = {
     location: "India 🇮🇳",
     education: "B.Tech CSE - 2nd Year",
-    role: "Aspiring Software Engineer | Java Learner",
+    role: "Aspiring Software Engineer | Python Learner",
     currentFocus: [
         "Python",
         "Data Structures & Algorithms",
